@@ -1,0 +1,3 @@
+﻿  12150981.cpp
+C:\Users\jkpark\Desktop\12150981\12150981\12150981.cpp(65,26): error C2084: 'int StudentNode::getId(void)' 함수에 이미 본문이 있습니다.
+C:\Users\jkpark\Desktop\12150981\12150981\12150981.cpp(46): message : 'getId'의 이전 정의를 참조하십시오.
